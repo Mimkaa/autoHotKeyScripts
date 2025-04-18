@@ -1,8 +1,8 @@
 ## 🤖 How ChatGPT Must Respond to My Requests
 
 1. **Scan the whole repo**  
-   * Traverse every file in every subfolder.  
-   * You may open and inspect the code/content of each file.
+   * Focus on the `collection/` folder (and any sub‑folders it contains).  
+   * You may open and inspect the code/content of every file there.
 
 2. **Select only the files relevant to my request**  
    * “Relevant” means the file’s name **or** its internal code directly helps address the task I just asked for.  
